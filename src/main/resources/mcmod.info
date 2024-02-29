@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CoflSky",
+  "name": "CoflSky",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Torui"],
+  "credits": "Coflnet for comissioning this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
